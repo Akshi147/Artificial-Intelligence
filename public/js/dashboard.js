@@ -120,7 +120,7 @@ let timerInterval;
     
     let currentIndex = 0;
     let resultMoney = 0;
-    let totalPoints = 10000;
+    let totalPoints = 10000000;
     let timerInterval;
     
     function updateContent() {
